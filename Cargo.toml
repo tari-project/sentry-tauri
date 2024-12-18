@@ -14,7 +14,7 @@ base64 = "0.22"
 sentry = "0.35"
 sentry-rust-minidump = "0.9"
 serde = "1"
-tauri = "2"
+tauri = { git = "https://github.com/tari-project/tauri.git"}
 thiserror = "2"
 schemars = "0.8"
 
